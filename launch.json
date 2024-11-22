@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Main Class",
+            "request": "launch",
+            "mainClass": "ToDoList",
+            "vmArgs": "-cp lib/mysql-connector-java-9.10.jar"
+        }
+    ]
+}
